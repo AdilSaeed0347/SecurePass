@@ -25,3 +25,4 @@ SecurePass is a simple, modern, and responsive password manager built using HTML
 1. Clone or download the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/securepass.git
+   Also avialible in securePass.rar form for download and testing
